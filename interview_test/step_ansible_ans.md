@@ -2,10 +2,13 @@
 
 
 1. Ensure the ansible is working with the localhost
+``` ansible localhost -m ping ```
 
 2. user ansible ad hoc command to print the kernel version of the localhost
+``` ansible localhost -m shell -a "uname -a" ```
 
 3. Create a role named test.
+``` ansible-galaxy role init test ```
 
 4. Using playbook test, create 5 directories in /tmp if not already existed.
 
