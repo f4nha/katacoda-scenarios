@@ -8,8 +8,7 @@
       {
         "title": "Step 1 - Linux basic",
         "text": "step_linux.md",
-        "courseData": "background.sh",
-        "code": "foreground.sh"
+        "courseData": "background.sh"
       },
       {
         "title": "Step 2 - K8s",
