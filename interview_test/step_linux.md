@@ -2,7 +2,7 @@
 
 1. Change default umask so the new directories created come with 700 permissions. (runtime & permanent).
 
-2. Find all files matching years between 2017 and 2029 on /tmp/data/pod-*.
+2. Find all files matching years 2017 and 2019 on /tmp/data/pod-*.
 
 3. Check why you cannot reach www.google.com? (curl or ping).
 
