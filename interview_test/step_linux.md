@@ -8,7 +8,9 @@
 
 4. Export a certificate from a website and create your own .crt or .pem ? (tip: using openssl).
 
-5. drop all connections going out to bbc.co.uk (whichever ip it is) on port 443 and test.
+5. Drop all connections going out to bbc.co.uk (whichever ip it is) on port 443 and test.
+
+6. List all user ids which are lower than 1000 using preferably one-line command. (tip: using awk)
 
 <br><br>
 
