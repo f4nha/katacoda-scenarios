@@ -10,7 +10,7 @@
 
 5. Drop all connections going out to bbc.co.uk (whichever ip it is) on port 443 and test.
 
-6. List all user ids which are lover than 1000 using preferably with one-line command. (tip: using awk)
+6. List all user ids which are lower than 1000 using preferably with one-line command. (tip: using awk)
 
 <br><br>
 
