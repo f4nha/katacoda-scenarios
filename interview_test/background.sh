@@ -15,5 +15,4 @@ done
 
 
 echo "120.100.199.0 www.google.com" >> /etc/hosts
-touch \ \ \ \
 
