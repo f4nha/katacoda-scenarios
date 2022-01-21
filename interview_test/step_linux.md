@@ -15,5 +15,5 @@
 <br><br>
 
 Extra
-- please remove the file name '   ' on /tmp
+- Other admin trying to debug a server accidentally typed: `chmod -x /bin/chmod.` How to reset permissions back to default?
 - Is it safe to attach the strace to a running process on the production? What are the consequences?
